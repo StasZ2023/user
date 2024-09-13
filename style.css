@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color:rgba(0, 0, 0, 0.801);
+    margin: 0 auto;
+    text-align: center;
+    
+}
+input{
+    width:45%;
+    margin: 10px 0;
+    padding: 5px;
+    font-size: 20px;
+    background-color:rgb(0, 0, 0);
+    color:#fff;
+    border:1px solid rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px 1px rgb(0, 255, 179);
+}
+button{
+    display: inline-block;
+    width:45%;
+    margin: 5px 0;
+    background-image: linear-gradient(45deg,rgb(0, 119, 255), black);
+    color:#fff;
+    font-size: 18px;
+    padding:5px;
+    box-shadow: 0 0 10px 2px rgb(94, 255, 0);
+}
+.open{
+    background-image: linear-gradient(195deg,rgb(0, 119, 255), black);
+}
+.post{
+    color:#fff;
+    padding-top:10px;
+    font-size: 20px;
+    text-align: left;
+    background-color:#ffffff54;
+    margin-top:10px;
+}
